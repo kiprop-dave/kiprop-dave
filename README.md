@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings...+👋;I+am+David+Kiprop....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h2 align ="center">
+    <span style ="text-decoration:underline wavy 2px">Electrical Engineer</span> 
+    || 
+    <span style ="text-decoration:underline wavy 2px">Software Developer</span>
+</h2>
 
 <!--
 **kiprop-dave/kiprop-dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
