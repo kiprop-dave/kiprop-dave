@@ -9,6 +9,10 @@
     <span >Software Developer</span>
 </h2>
 <br/>
+
+- 🌱 I’m currently learning React
+
+<br/>
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,6 +20,13 @@
     </a>
   </div>
   <br>
+</p>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kiprop-dave&theme=react&border=61dafb&hide_border=true" alt="alex-m-kimeu" />
+    </a>
+  </div>
 </p>
 
 <!--
