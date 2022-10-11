@@ -10,7 +10,7 @@
 </h2>
 <br/>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React by doing projects on frontend mentor
 
 <br/>
 <p align=center>
