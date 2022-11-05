@@ -10,7 +10,7 @@
 </h2>
 <br/>
 
-- 🌱 I’m currently learning Next js by doing projects on frontend mentor
+- 🌱 I’m currently learning node js and mongodb.
 
 <br/>
 <p align=center>
