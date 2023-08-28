@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings...+👋;I+am+David+Kiprop....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello there+👋;I+am+David+Kiprop....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h2 align ="center">
@@ -10,7 +10,21 @@
 </h2>
 <br/>
 
-- 🌱 I’m currently learning node js and mongodb.
+I'm a passionate developer who loves working with a variety of technologies to create efficient and elegant solutions.
+My expertise includes JavaScript, TypeScript, Go, PostgreSQL, MongoDB, React, and Node.js.
+I have a strong penchant for type safety and memory efficiency, and I enjoy exploring new technologies and learning about the latest industry trends.
+
+### 🌱 Current Interests
+
+I'm currently exploring:
+
+- 🌈 The evolving landscape of web development and how modern frameworks are pushing the boundaries of user experiences.
+
+### 📫 Let's Connect
+
+I'm always open to connect with fellow developers and tech enthusiasts.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/david-tanui-671b08231/) or [Twitter](https://twitter.com/kiprop_dev).
+Let's exchange ideas and collaborate on exciting projects!
 
 <br/>
 <p align=center>
